@@ -5,7 +5,7 @@
 
 ### Stack
 - Python
-- * pydata stack
+- pydata stack
 - SQL
 - PowerBI
 
